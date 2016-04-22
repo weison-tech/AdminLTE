@@ -53,7 +53,7 @@ npm install --save admin-lte
 **Composer**
 
 ```
-composer require "almasaeed2010/adminlte=~2.0"
+composer require "weison-tech/adminlte=~2.0"
 ```
 
 Documentation
